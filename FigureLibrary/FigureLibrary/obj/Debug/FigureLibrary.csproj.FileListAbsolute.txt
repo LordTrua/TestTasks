@@ -1,0 +1,6 @@
+C:\Users\alex1\source\repos\FigureLibrary\FigureLibrary\bin\Debug\FigureLibrary.dll
+C:\Users\alex1\source\repos\FigureLibrary\FigureLibrary\bin\Debug\FigureLibrary.pdb
+C:\Users\alex1\source\repos\FigureLibrary\FigureLibrary\obj\Debug\FigureLibrary.csproj.AssemblyReference.cache
+C:\Users\alex1\source\repos\FigureLibrary\FigureLibrary\obj\Debug\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alex1\source\repos\FigureLibrary\FigureLibrary\obj\Debug\FigureLibrary.dll
+C:\Users\alex1\source\repos\FigureLibrary\FigureLibrary\obj\Debug\FigureLibrary.pdb
